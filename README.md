@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @darlenecodes
 - 👀 I’m interested in simulating emotions.
-- 🌱 I’m currently learning machine learning and operating systems design.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing research in ML, DL, and human emotion recognition.
 - 📫 How to reach me darlene@darlenecodes.com
 
 <!---
